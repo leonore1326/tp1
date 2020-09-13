@@ -1,2 +1,2 @@
-name = input("hello! What's you're name\n> ")
-print("Well, it's nice to meet you", name)
+age=int(input("How old are you?"))
+print("Were you born in",2020-age,"or",2019-age,"?")
